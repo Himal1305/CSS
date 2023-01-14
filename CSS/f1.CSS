@@ -1,3 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    
+    background-attachment:fixed ;
+}
+.nav{
+    
+    background-color: grey;
+    border: 4px solid brown;
+    color: rgb(22, 22, 22);
+    
+
+}
+.image{
+    height: 1115px;
+    width: 315px;
+    background-image: url("https://cdn.eso.org/images/screen/eso1907a.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 315px 315px;
+    background-color: aqua;
+    background-attachment: fixed;
+ 
+}
+
+ 
+
 .container{
     background-color: rgb(212, 45, 45);
     color: aliceblue;
@@ -5,6 +35,7 @@
 #head{
     background-color: black;
     color: white;
+    
 }
 .red{
     background-color: rgb(136, 138, 137);
