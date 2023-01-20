@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0 ;
+}
+
+nav{
+    height: auto;
+    width: 100%;
+    /* padding: 2vh; */
+    background-color: rgb(73, 60, 60);
+    color: aliceblue;
+    border: 4px solid black;
+    border-radius: 15px;
+    position: sticky;
+    top: 0;
+    /* z-index: 5px; */
+    }
+
+nav ul{
+    text-decoration: none;
+
+}
+nav ul li {
+    font-size: 3vw;
+    display: inline;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.div1{
+    border: 2px solid black ;
+    height: 550px;
+    width: 500px;
+    font-size: 1vw;
+    margin: 15px;
+    padding: 15px;
+}
+.div2{
+    margin: 115px;  
+    padding: 115px;
+}
+.div2 ul li
+{ 
+    border: 2px solid rgb(124, 82, 82);
+    list-style: square url("https://cdn.eso.org/images/screen/eso1907a.jpg");
+
+}
