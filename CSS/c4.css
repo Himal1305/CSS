@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(34, 29, 29);
+    text-align: center;
+    height: 50px;
+    color: azure;
+}
+.div1{
+    background-color: rgb(83, 162, 214);
+    display:inline-block;
+    height: 115px;
+    width: 50%;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Roboto Slab', serif;
+}
+.div2{
+    background-color: brown;
+    display:inline-block;
+    height: 115px;
+    width: 50%;
+    font-family: 'Baloo Bhai 2', cursive;
+}
