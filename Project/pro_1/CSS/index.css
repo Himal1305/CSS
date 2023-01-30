@@ -16,6 +16,7 @@ header{
 
 }
 .logo{
+    margin-left: 40px;
     display:inline-block;
     align-items: center;
 }
@@ -49,12 +50,17 @@ header ul li a{
     color: aliceblue;
 }
 
+header ul li a:hover{
+    font-size: 23px;
+}
 
 
+.container{
+    min-height: calc(100vh - 40px - 35px);
+}
 
 
-
-footer{
+footer{ height: 20px;
     background-color: var(--main-bg-color);
     color: antiquewhite;
 }
